@@ -1,4 +1,4 @@
-Histogram of Oriented Gradients
+Histogram of Oriented Gradients and key point detection
 
 I only included the output .txt files for Q3. 
 
