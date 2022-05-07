@@ -1,1 +1,1 @@
-Neural Machine Traslation using RNN encoder/decoder model where each cell unit is a Gated Recurrent Unit cell (a simplified LSTM cell). Also analyzed performance compared to RNN with additive attention and with scaled dot product attention
+Fitting a Variational Autoencoder tp binarized MNIST digits and visualizing the distribution over data given by the generative model, sampling from it, and interpolating between digits. We can also predict the bottom of images given the top.
