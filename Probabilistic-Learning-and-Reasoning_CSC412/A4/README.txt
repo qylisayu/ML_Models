@@ -1,1 +1,1 @@
-Fitting a Variational Autoencoder tp binarized MNIST digits and visualizing the distribution over data given by the generative model, sampling from it, and interpolating between digits. We can also predict the bottom of images given the top.
+Fitting a Variational Autoencoder to binarized MNIST digits and visualizing the distribution over data given by the generative model, sampling from it, and interpolating between digits. We can also predict the bottom of images given the top.
