@@ -1,1 +1,1 @@
-Neural Machine Traslation using RNN encoder/decoder model where each cell unit is a Gated Recurrent Unit cell (a simplified LSTM cell). Also analyzed performance compared to RNN with additive attention and with scaled dot product attention
+classifying spam emails with Naive Bayes and Linear Regression
