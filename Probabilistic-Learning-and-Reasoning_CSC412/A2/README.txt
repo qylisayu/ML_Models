@@ -1,1 +1,3 @@
-Neural Machine Traslation using RNN encoder/decoder model where each cell unit is a Gated Recurrent Unit cell (a simplified LSTM cell). Also analyzed performance compared to RNN with additive attention and with scaled dot product attention
+Using sum-product Loopy belief propagation (Loopy-BP) method for denoising binary images.
+
+Implementing a variant of the TrueSkill model and performing Bayesian inference by approximating the posterior distributions with gradient-based Hamiltonian Monte Carlo.
